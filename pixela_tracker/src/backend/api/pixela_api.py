@@ -1,6 +1,6 @@
 import requests
 from datetime import datetime
-from habit_tracker.config.settings import USERNAME, TOKEN
+from pixela_tracker.config.settings import USERNAME, TOKEN
 
 
 parameters = {
